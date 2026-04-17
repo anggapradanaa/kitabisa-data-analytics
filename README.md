@@ -1,3 +1,7 @@
+# 📊 KITABISA DATA ANALYTICS PROJECT
+
+This project is a comprehensive data analytics case study based on real-world business scenarios from Kitabisa. The objective is to analyze marketing performance, campaign quality, company health, and user acquisition behavior using SQL (BigQuery), visualization (Looker Studio), and Python. The project consists of four main tasks: evaluating ads performance, analyzing campaign complaints, building a company health dashboard, and exploring new user behavior to generate actionable, data-driven growth strategies.
+
 # BAGIAN 1 — SOAL 1: Marketing Ads Performance
 
 ## Tujuan Query
