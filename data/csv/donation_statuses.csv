@@ -1,0 +1,5 @@
+id,status,description
+1,CANCELLED,Donasi dibatalkan karena periode donasi proyek sudah berakhir.
+2,PENDING,"Donasi sudah tercatat, namun masih menunggu konfirmasi pembayaran dari donatur"
+4,VERIFIED,Donasi sudah diverifikasi oleh admin
+9,DRAFT,Donasi belum disubmit oleh user (temporary data)
